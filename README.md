@@ -17,5 +17,5 @@ The original review text can be cut and pasted into the review input field of th
 
 
 ### Model Building and Deployment
-The Jupyter Notebook [SageMaker Project](SageMaker Project.ipynb) explains how the model was created, tested and deployed using Amazon SageMaker.
+The Jupyter Notebook [SageMaker Project](SageMaker%20Project.ipynb) explains how the model was created, tested and deployed using Amazon SageMaker.
 The result is also shown in the [report.html](report.html) file.
